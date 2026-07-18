@@ -24,6 +24,9 @@ Building scalable, high-performance web applications with modern Angular technol
 
 </div>
 
+
+--- 
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular"/>
@@ -40,7 +43,6 @@ Building scalable, high-performance web applications with modern Angular technol
 
 </p>
 
----
 
 # 🚀 About Me
 
