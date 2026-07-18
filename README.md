@@ -6,6 +6,23 @@
 
 Building scalable, high-performance web applications with modern Angular technologies.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/RxJS-Advanced-B7178C?style=for-the-badge&logo=reactivex"/>
+
+<img src="https://img.shields.io/badge/Signals-Angular-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NgRx-State%20Management-BA2BD2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=.net"/>
+
+</p>
+
+
 <p>
   <a href="mailto:mostafa.allam.de@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
