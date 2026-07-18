@@ -2,61 +2,48 @@
 
 # 👋 Hi, I'm Mostafa Allam
 
-### Frontend Engineer | Angular Specialist | Future ASP.NET Core Developer
-
-Building scalable, high-performance web applications with modern Angular technologies.
-
-
+### Frontend Engineer | Angular Specialist | Building Modern Web Applications
 
 <p>
   <a href="mailto:mostafa.allam.de@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/mostafa-allam-b588a8a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Allam-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Allam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=mo0olto&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mo0olto&style=for-the-badge&color=blue" />
+</p>
 
-</p> 
+<p>
 
+<img src="https://img.shields.io/badge/Angular-21+-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/RxJS-Advanced-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
 
---- 
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular"/>
-
-<img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/RxJS-Advanced-B7178C?style=for-the-badge&logo=reactivex"/>
-
-<img src="https://img.shields.io/badge/Signals-Angular-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Signals-Angular-DD0031?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NgRx-State%20Management-BA2BD2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=.net"/>
+<img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 </p>
 
+</div>
+
+---
 
 # 🚀 About Me
 
-💻 Frontend Engineer specialized in Angular
-
-🔥 Passionate about building scalable Enterprise Applications
-
-📚 Currently learning ASP.NET Core & Clean Architecture
-
-⚡ Interested in Software Architecture, Performance & System Design
-
-🤖 Building AI-powered applications
-
-🌍 From Egypt 🇪🇬
+- 💻 Frontend Engineer specialized in **Angular**
+- 🚀 Passionate about building scalable Enterprise Applications
+- 🌱 Currently learning **ASP.NET Core**, **Clean Architecture**, and **System Design**
+- 🤖 Interested in AI-powered applications and modern web technologies
+- ⚡ Experienced with **Angular Signals**, **RxJS**, **NgRx**, **SSR**, **Nx Monorepos**, and **Offline-First Applications**
+- 📫 Reach me at **mostafa.allam.de@gmail.com**
 
 ---
 
@@ -65,59 +52,35 @@ Building scalable, high-performance web applications with modern Angular technol
 ## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap" />
 </p>
-
----
-
-## State Management
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=rxjs"/>
-
-</p>
-
-- Angular Signals
-- RxJS
-- NgRx
-
----
 
 ## Backend (Learning)
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs"/>
-
+<img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
-
----
 
 ## Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 </p>
 
----
+## Also Working With
 
-## Other Technologies
-
+- Angular Signals
+- RxJS
+- NgRx
 - PrimeNG
-- Nx Monorepo
 - Angular SSR
+- Nx Monorepo
 - REST APIs
-- Offline First Architecture
-- Progressive Web Apps (PWA)
 - AI Integration
-- Responsive Design
-- Component Libraries
+- Progressive Web Apps (PWA)
+- Offline-First Architecture
 - Performance Optimization
+- Responsive Design
 
 ---
 
@@ -125,79 +88,70 @@ Building scalable, high-performance web applications with modern Angular technol
 
 ## 🏋️ Fitness Management System
 
-> Angular 21 • Signals • PrimeNG • Tailwind CSS v4
-
-✔ Authentication
-
-✔ AI Fitness Assistant
-
-✔ Class Booking
-
-✔ Responsive UI
+- Angular 21
+- PrimeNG
+- Tailwind CSS v4
+- Angular Signals
+- Authentication
+- AI Fitness Assistant
+- Booking System
 
 ---
 
 ## 🍽 Smart Restaurant POS Dashboard
 
-> Angular 21 • Signals • RxJS • Offline First
-
-✔ Kitchen Monitoring
-
-✔ AI Order Assistant
-
-✔ Live Orders
-
-✔ Offline Queue
-
-✔ Dashboard Analytics
+- Angular 21
+- Signals
+- RxJS
+- AI Order Assistant
+- Offline Queue
+- Kitchen Monitoring
+- Real-time Orders
 
 ---
 
 ## 📚 Course Management Dashboard
 
-> Angular 21
-
-✔ CRUD
-
-✔ Search
-
-✔ Filters
-
-✔ Reusable Components
-
-✔ PrimeNG
+- Angular 21
+- CRUD Operations
+- Search & Filtering
+- PrimeNG
+- Reusable Components
+- Responsive Design
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mo0olto&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<p align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0olto&layout=compact&theme=tokyonight&hide_border=true"
-/>
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=mo0olto&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0olto&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mo0olto&theme=tokyonight"/>
+<img
+src="https://streak-stats.demolab.com?user=mo0olto&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Mostafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -205,7 +159,8 @@ Building scalable, high-performance web applications with modern Angular technol
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mo0olto/mo0olto/output/github-contribution-grid-snake-dark.svg"/>
+<img
+src="https://raw.githubusercontent.com/mo0olto/mo0olto/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -213,27 +168,31 @@ Building scalable, high-performance web applications with modern Angular technol
 
 # 🎯 2026 Goals
 
-- ✅ Master Angular 21+
-- ✅ Become ASP.NET Core Full Stack Developer
-- ✅ Learn Clean Architecture
-- ✅ Learn System Design
-- ✅ Build Production-grade SaaS Applications
-- ✅ Contribute to Open Source
+- Master ASP.NET Core
+- Build Production-Ready Full Stack Applications
+- Deepen Knowledge in Clean Architecture
+- Learn Advanced System Design
+- Contribute to Open Source Projects
 
 ---
 
-# 💡 Favorite Quote
+# 💬 Ask Me About
 
-> "First, solve the problem. Then, write the code."
-
-– John Johnson
+- Angular
+- TypeScript
+- RxJS
+- Angular Signals
+- NgRx
+- PrimeNG
+- Nx
+- Angular SSR
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### ⭐ Thanks for visiting my profile!
 
-⭐ Don't forget to star the repositories if you like them.
+If you like my projects, consider giving them a ⭐
 
 </div>
