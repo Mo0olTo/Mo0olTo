@@ -1,151 +1,212 @@
-<h1 align="center">Hi 👋, I'm Mostafa Allam</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Engineer specialized in Angular • Building scalable web applications with modern architectures
-</h3>
+# 👋 Hi, I'm Mostafa Allam
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mo0olto&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+### Frontend Engineer | Angular Specialist | Future ASP.NET Core Developer
+
+Building scalable, high-performance web applications with modern Angular technologies.
+
+<p>
+  <a href="mailto:mostafa.allam.de@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://linkedin.com/in/mostafa-allam-b588a8a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Allam-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mo0olto&style=for-the-badge"/>
+
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Frontend Engineer focused on **Angular Ecosystem**
-- 🌱 Currently learning **ASP.NET Core & Clean Architecture**
-- ⚡ Passionate about **Enterprise Applications**
-- 🧠 Interested in **Software Architecture, System Design & Performance**
-- 🤖 Building AI-powered applications using **Gemini API**
-- 📱 Experienced with **Responsive Design, Offline-First & PWA**
-- 💬 Ask me about **Angular, TypeScript, RxJS, Signals, NgRx, Nx**
-- 📫 Reach me at **mostafa.allam.de@gmail.com**
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/mostafa-allam-b588a8a7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+💻 Frontend Engineer specialized in Angular
+
+🔥 Passionate about building scalable Enterprise Applications
+
+📚 Currently learning ASP.NET Core & Clean Architecture
+
+⚡ Interested in Software Architecture, Performance & System Design
+
+🤖 Building AI-powered applications
+
+🌍 From Egypt 🇪🇬
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap"/>
 
 </p>
 
-### State Management
+---
 
-- Signals
+## State Management
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=rxjs"/>
+
+</p>
+
+- Angular Signals
 - RxJS
 - NgRx
 
-### Backend (Learning)
+---
+
+## Backend (Learning)
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs"/>
 
 </p>
 
-### Tools
+---
+
+## Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
 
 </p>
 
-### Other
+---
+
+## Other Technologies
 
 - PrimeNG
 - Nx Monorepo
 - Angular SSR
 - REST APIs
+- Offline First Architecture
+- Progressive Web Apps (PWA)
 - AI Integration
-- Offline First
-- PWA
+- Responsive Design
+- Component Libraries
+- Performance Optimization
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏋️ Fitness Management System
+## 🏋️ Fitness Management System
 
-- Angular 21
-- Signals
-- PrimeNG
-- Tailwind CSS v4
-- Authentication
-- Booking System
-- AI Assistant
+> Angular 21 • Signals • PrimeNG • Tailwind CSS v4
 
----
+✔ Authentication
 
-### 🍽️ Smart Restaurant POS Dashboard
+✔ AI Fitness Assistant
 
-- Angular 21
-- Signals
-- RxJS
-- Offline First
-- AI Order Assistant
-- Kitchen Monitoring
-- Orders Management
+✔ Class Booking
+
+✔ Responsive UI
 
 ---
 
-### 📚 Course Management Dashboard
+## 🍽 Smart Restaurant POS Dashboard
 
-- Angular 21
-- CRUD
-- Reusable Components
-- Search & Filtering
-- PrimeNG
-- Tailwind CSS
+> Angular 21 • Signals • RxJS • Offline First
+
+✔ Kitchen Monitoring
+
+✔ AI Order Assistant
+
+✔ Live Orders
+
+✔ Offline Queue
+
+✔ Dashboard Analytics
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Course Management Dashboard
 
-<p align="center">
+> Angular 21
+
+✔ CRUD
+
+✔ Search
+
+✔ Filters
+
+✔ Reusable Components
+
+✔ PrimeNG
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mo0olto&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0olto&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mo0olto&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Mostafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mo0olto&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/mo0olto/mo0olto/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-## 📈 Current Focus
+# 🎯 2026 Goals
 
-```text
-Angular 21
-Signals
-RxJS
-NgRx
-Nx
-SSR
-ASP.NET Core
-Clean Architecture
-System Design
-```
+- ✅ Master Angular 21+
+- ✅ Become ASP.NET Core Full Stack Developer
+- ✅ Learn Clean Architecture
+- ✅ Learn System Design
+- ✅ Build Production-grade SaaS Applications
+- ✅ Contribute to Open Source
 
 ---
 
-⭐ From **Mostafa Allam**
+# 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+– John Johnson
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ Don't forget to star the repositories if you like them.
+
+</div>
