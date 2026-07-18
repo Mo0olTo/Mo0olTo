@@ -6,6 +6,24 @@
 
 Building scalable, high-performance web applications with modern Angular technologies.
 
+
+
+<p>
+  <a href="mailto:mostafa.allam.de@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://linkedin.com/in/mostafa-allam-b588a8a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Allam-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mo0olto&style=for-the-badge"/>
+
+</p> 
+
+
+</div>
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular"/>
@@ -21,22 +39,6 @@ Building scalable, high-performance web applications with modern Angular technol
 <img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=.net"/>
 
 </p>
-
-
-<p>
-  <a href="mailto:mostafa.allam.de@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-
-  <a href="https://linkedin.com/in/mostafa-allam-b588a8a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Allam-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=mo0olto&style=for-the-badge"/>
-
-</p>
-
-</div>
 
 ---
 
