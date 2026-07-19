@@ -184,25 +184,20 @@ Building scalable, high-performance web applications with modern Angular technol
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mo0olto&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0olto&layout=compact&theme=tokyonight&hide_border=true"
-/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo0olto&theme=radical" alt="stats"/>
+  <a href="https://github.com/mo0olto">
+    <img height="180" src="https://streak-stats.demolab.com?user=mo0olto&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="streak"/>
+  </a>
 
 </div>
 
----
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo0olto&theme=radical" alt="top langs"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo0olto&theme=radical" alt="top langs by commit"/>
+</div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mo0olto&theme=tokyonight"/>
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&bg_color=0D1117&color=FF1493&line=FF69B4&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph"/>
 </div>
 
 ---
