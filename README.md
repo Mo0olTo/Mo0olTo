@@ -184,20 +184,16 @@ Building scalable, high-performance web applications with modern Angular technol
 
 <div align="center">
 
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo0olto&theme=radical" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo0olto&theme=tokyonight" alt="stats"/>
   <a href="https://github.com/mo0olto">
-    <img height="180" src="https://streak-stats.demolab.com?user=mo0olto&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="streak"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=mo0olto&theme=tokyonight&hide_border=true" alt="streak"/>
   </a>
 
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo0olto&theme=radical" alt="top langs"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo0olto&theme=radical" alt="top langs by commit"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&bg_color=0D1117&color=FF1493&line=FF69B4&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo0olto&theme=tokyonight" alt="top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo0olto&theme=tokyonight" alt="top languages by commit"/>
 </div>
 
 ---
@@ -205,7 +201,6 @@ Building scalable, high-performance web applications with modern Angular technol
 # 📈 Contribution Graph
 
 [![Mostafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mo0olto&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
